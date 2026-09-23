@@ -1,0 +1,103 @@
+header {
+	background: rgb(103, 82, 197);
+	color: white;
+	padding: 1em;
+	text-align: center;
+}
+
+footer {
+	background: rgb(103, 82, 197);
+	color: white;
+	padding: 1em;
+	text-align: center;
+	font-size: 15px;
+	letter-spacing: 1px;
+}
+
+table {
+	width: 100%;
+	margin: 30px auto;
+	border-collapse: collapse;
+}
+
+td,
+th {
+	padding: 25px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+thead {
+	color: black;
+	font-size: 1.2em;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+	color: white;
+}
+
+header h1 {
+	margin: 0;
+	font-size: 22px;
+	letter-spacing: 1px;
+}
+
+.DAM {
+	padding: 8px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+.DIAS {
+	padding: 8px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+.RECREO {
+	padding: 8px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+
+.ENT {
+	background-color: orange;
+}
+
+.DIG {
+	background-color: skyblue;
+}
+
+.SIS {
+	background-color: rosybrown;
+}
+
+.LDM {
+	background-color: plum;
+}
+
+.IPS {
+	background-color: peachpuff;
+}
+
+.PGR {
+	background-color: slateblue;
+}
+
+.BDD {
+	background-color: lime;
+}
+
+.SOS {
+	background-color: khaki;
+}
+
+.ING {
+	background-color: lightcoral;
+}
+
+.PIM {
+	background-color: limegreen;
+}
