@@ -1,0 +1,28 @@
+.lista_horizontal{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    background-color: #575c0e;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+.lista_vertical{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    background-color: #29ce44;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    margin: 0;
+    gap: 30px;
+    max-width: 80px;
+}
+
+p{
+    font-size: 30px;
+    color: #000000;
+    text-decoration: solid;
+}
