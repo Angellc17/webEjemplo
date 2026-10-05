@@ -1,0 +1,45 @@
+body {
+    background-image: url(../img/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-position: center;
+    min-height: 700px;
+}
+
+.div1 {
+    background-color: rgba(70, 90, 110, 0.75);
+    color: white;
+    width: 80%;
+    margin: 50px auto 0 auto;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.div2 {
+    background-color: rgba(210, 205, 140, 0.75);
+    color: black;
+    width: 80%;
+    margin: 20px auto 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.div2 p {
+    line-height: 1.5;
+}
+
+.resaltado-morado {
+    background-color: rgb(216, 104, 216);
+}
+
+.resaltado-blanco {
+    background-color: white;
+    color: black;
+}
+
+.recuadro-negrita {
+    font-family: fantasy;
+    border: 2px solid black;
+    padding: 2px 4px;
+}

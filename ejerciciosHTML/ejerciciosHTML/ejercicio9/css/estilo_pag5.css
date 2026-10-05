@@ -1,0 +1,20 @@
+ dialog {
+     border: 3px solid black;
+     width: 350px;
+     padding: 30px;
+     text-align: center;
+     margin: 50px auto;
+     background-color: white;
+ }
+
+ dialog h2 {
+     font-family: "Times New Roman", serif;
+     font-size: 28px;
+     margin-bottom: 20px;
+ }
+
+ dialog h1 {
+     font-family: "Times New Roman", serif;
+     font-size: 32px;
+     margin: 0;
+ }

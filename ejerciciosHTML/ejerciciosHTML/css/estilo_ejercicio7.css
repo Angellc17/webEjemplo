@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border : 2px solid rgb(24, 193, 199);
+    background-color: rgb(24, 193, 199);
+    background-image: url(../img/fondo3.png);
+    background-repeat: space;
+    background-size: 30px ;
+
+}
+
+p {
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.resaltado{
+    border: 4px solid rgb(152, 27, 184);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.cap1 {
+    background-color: rgb(91, 238, 123);
+    padding: 10px;
+}
+
+.cap2{
+    background-color: rgb(228, 182, 31);
+    padding: 10px;
+    margin: 20px;
+}
+
+.cap3{
+    background-color:rgb(71, 18, 172);
+    color: white;
+    padding: 10px;
+    margin  : 20px;
+    border-radius: 10px;
+    font-size: 15px
+}

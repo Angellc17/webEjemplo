@@ -1,0 +1,9 @@
+p {
+    margin: 0;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: aqua;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
