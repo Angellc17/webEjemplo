@@ -1,12 +1,13 @@
+/*CSS DEL INDEX*/
 header {
-	background: rgb(103, 82, 197);
+	background: rgb(30, 29, 39);
 	color: white;
 	padding: 1em;
 	text-align: center;
 }
 
 footer {
-	background: rgb(103, 82, 197);
+	background: rgb(30, 29, 39);
 	color: white;
 	padding: 1em;
 	text-align: center;
@@ -14,6 +15,58 @@ footer {
 	letter-spacing: 1px;
 }
 
+footer a{
+	color: white;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    background-color: rgb(30, 29, 39);
+    padding: 20px;
+}
+
+.menu a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #273650;
+    border-radius: 20px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.desplegable {
+	position: relative;
+}
+
+.submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 150px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    z-index: 10;
+}
+
+.submenu a {
+    background-color: white;
+    color: #222;
+    border-radius: 0;
+    padding: 10px 15px;
+}
+
+.desplegable:hover .submenu {
+    display: block;
+}
+
+.submenu a:hover {
+    background-color: #eeeeee;
+}
+
+/*CSS DE LA TABLA*/
 table {
 	width: 100%;
 	margin: 30px auto;
@@ -30,14 +83,6 @@ thead {
 	color: black;
 	font-size: 1.2em;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-a {
-	color: white;
-	border: 1px solid white;
-	border-radius: 10px;
-	border-style: solid;
-	text-decoration: none;
 }
 
 header h1 {
