@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn_resta{
+    background-color: red;
+}
+
+div{
+    margin: 10px;
+    padding: 10px;
+}
+td{
+    padding: 5px;
+}
+
+.btn_num{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(70, 68, 68);    
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.calculadora {
+    
+}

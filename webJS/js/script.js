@@ -1,4 +1,4 @@
-alert("El script ha sido creado correctamente");
+/*alert("El script ha sido creado correctamente");*/
 
 var numero1 = 10;
 var numero2 = 5;
